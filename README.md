@@ -1,5 +1,8 @@
 # 💫 About Me:
-ECE STUDENT | PYTHON | AI & GCP Enthusiast |<br>Aspiring Data Science <br>
+ECE STUDENT 
+PYTHON 
+AI & GCP Enthusiast 
+<br>Aspiring Data Science <br>
 
 
 ## 🌐 Socials:
